@@ -38,4 +38,7 @@ public class TemplateBaseTest {
     public void testFindIds2TemplateSDK() {
         System.out.println(JSON.toJSONString(baseService.findIds2TemplateSDK(Arrays.asList(1, 2, 3))));
     }
+
+////
+
 }
